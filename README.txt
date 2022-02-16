@@ -1,3 +1,5 @@
+Submission for one of my assignments for COMP1000 (v.1) Unix and C Programming at Curtin. The task was to make an algorithm which would check if brackets were consistent in any file. Written in C.
+
 Bracket Check
 
 Author: Austin Bevacqua
